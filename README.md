@@ -1,9 +1,5 @@
 # Hello, I'm Mitch! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/mgunsolus?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/mgunsolus94?label=Follow&style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
-
 I'm a Software Development student at [Madison College](https://www.madisoncollege.edu/), currently learning and building exciting projects. Here's a bit about me:
 
 - 🔭 I'm passionate about coding and exploring the world of software development.
