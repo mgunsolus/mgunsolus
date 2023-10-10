@@ -6,11 +6,11 @@ I'm a Software Development student at [Madison College](https://www.madisoncolle
 
 - 🔭 I'm passionate about coding and exploring the world of software development.
 - 🌱 I have experience in various technologies, including:
-  - ![Java](https://img.shields.io/badge/Java-Intermediate-orange)
-  - ![HTML](https://img.shields.io/badge/HTML-Advanced-green)
-  - ![CSS](https://img.shields.io/badge/CSS-Advanced-green)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)
-  - ![PHP](https://img.shields.io/badge/PHP-Intermediate-orange)
+  - <img src="java.png" width="20" height="20"> Java
+  - <img src="html.png" width="20" height="20"> HTML
+  - <img src="css.png" width="20" height="20"> CSS
+  - <img src="javascript.png" width="20" height="20"> JavaScript
+  - <img src="php.png" width="20" height="20"> PHP
 - 💬 Ask me about my hobbies, coding challenges, or anything tech-related!
 - 📫 I'm working on my personal website, which is expected to be completed by the end of 2023.
 
