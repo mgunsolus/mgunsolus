@@ -24,14 +24,8 @@ I'm a Software Development student at [Madison College](https://www.madisoncolle
 
 Here are some of the projects I've worked on:
 
-1. [Happy Trails Real Estate] (WIP) (https://github.com/your-username/project-name-1)
-   - Brief project description.
-
-2. [Project Name 2](https://github.com/your-username/project-name-2)
-   - Brief project description.
-
-3. [Project Name 3](https://github.com/your-username/project-name-3)
-   - Brief project description.
+1. [Happy Trails Real Estate] (WIP) ()
+   - WIP
 
 ## 🌐 Connect with Me
 
