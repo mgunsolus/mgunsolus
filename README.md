@@ -6,11 +6,11 @@ I'm a Software Development student at [Madison College](https://www.madisoncolle
 
 - 🔭 I'm passionate about coding and exploring the world of software development.
 - 🌱 I have experience in various technologies, including:
-  - <img src="java.png" width="20" height="20"> Java
-  - <img src="html.png" width="20" height="20"> HTML
-  - <img src="css.png" width="20" height="20"> CSS
-  - <img src="javascript.png" width="20" height="20"> JavaScript
-  - <img src="php.png" width="20" height="20"> PHP
+  - <img src="java.png" width="20" height="20"> 
+  - <img src="html.png" width="20" height="20"> 
+  - <img src="css.png" width="20" height="20"> 
+  - <img src="javascript.png" width="20" height="20"> 
+  - <img src="php.png" width="20" height="20"> 
 - 💬 Ask me about my hobbies, coding challenges, or anything tech-related!
 - 📫 I'm working on my personal website, which is expected to be completed by the end of 2023.
 
